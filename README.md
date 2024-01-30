@@ -3,9 +3,7 @@ A python and Python notebook file to test the game of Life
 
 ## Bibliography
 Librarie use : `pip install pyseagull`  
-All the info about this librairie on [ljvmiranda921 the repos](https://github.com/ljvmiranda921/seagull.git)  
-
-For Issue or Improvement the github [repos of this project](https://github.com/ruben-adhesif/Lyfe-Leon-CDOF4.git)
+All the info about this librairie on [the repos of ljvmiranda921](https://github.com/ljvmiranda921/seagull.git)  
 
 "Lyfe.py" can be lauch from a terminal but only show it animation from VSCode Interactive Window
 A .ipynb is also available to see the result
