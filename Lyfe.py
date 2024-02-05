@@ -3,7 +3,7 @@ from seagull import lifeforms as lf
 import matplotlib.pyplot as plt
 
 LOOP_LENGHT = 600
-
+#You can fix this bug also by changing the variable name to LOOP_LENGTH 
 plt.rcParams["animation.html"] = 'jshtml'
 
 board = sg.Board(size=(30,30))
